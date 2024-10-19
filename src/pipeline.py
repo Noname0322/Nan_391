@@ -1405,3 +1405,5 @@ def infer(request: TextToImageRequest, pipeline: StableDiffusionXLPipeline) -> I
 
 
 
+
+
